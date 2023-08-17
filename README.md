@@ -118,6 +118,6 @@
 
 <img align="left" alt="img" src="https://github.com/SoulChildTc/SoulChildTc/raw/main/cover.jpg?raw=true" width="60%" height="auto"/>
 
-<img align="left"  width="45%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SoulJian03&show_icons=true&hide_border=true" alt="SoulJian03" />
+<img align="left"  width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SoulJian03&show_icons=true&hide_border=true" alt="SoulJian03" />
 
-<img align="left" width="45%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SoulJian03&hide_border=true&show_icons=true" alt="SoulJian03" />
+<img align="left" width="47%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SoulJian03&hide_border=true&show_icons=true" alt="SoulJian03" />
