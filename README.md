@@ -1,5 +1,5 @@
 
-<h3 align="center"> 人的一切痛苦, 皆来自于我执. </h3>
+<h3 align="center"> 人的一切痛苦, 皆来自于我执 </h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
