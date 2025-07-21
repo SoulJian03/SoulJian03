@@ -113,11 +113,19 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-<img align="left"  width="35%" height="auto"  src="https://github-readme-stats.vercel.app/api/top-langs?username=SoulJian03&show_icons=true&hide_border=true&show_icons=true" alt="SoulJian03" />
 
 
+<!--
+自定义图片
 <img align="left" alt="img" src="https://github.com/SoulChildTc/SoulChildTc/raw/main/cover.jpg?raw=true" width="60%" height="auto"/>
 
+语言使用情况卡片
+<img align="left"  width="35%" height="auto"  src="https://github-readme-stats.vercel.app/api/top-langs?username=SoulJian03&show_icons=true&hide_border=true&show_icons=true" alt="SoulJian03" />
+
+仓库统计卡片
 <img align="left"  width="47%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SoulJian03&show_icons=true&hide_border=true" alt="SoulJian03" />
+
+连续贡献统计卡片
+
 
 <img align="left" width="47%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=SoulJian03&hide_border=true&show_icons=true" alt="SoulJian03" />
