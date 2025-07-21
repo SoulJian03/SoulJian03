@@ -1,7 +1,7 @@
 
 <h3 align="center"> 人的一切痛苦, 皆来自于我执 </h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"></h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50" />
